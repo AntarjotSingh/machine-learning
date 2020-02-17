@@ -11,7 +11,7 @@ Overfitting is more likely with nonparametric and nonlinear models that have mor
 
 For example, decision trees are a nonparametric machine learning algorithm that is very flexible and is subject to overfitting training data. This problem can be addressed by pruning a tree after it has learned in order to remove some of the detail it has picked up.
 
-![picture alt](https://github.com/AntarjotSingh/machine-learning/blob/master/Overfitting_and_Regularization/Overfitting.png)
+![picture alt](https://github.com/AntarjotSingh/machine-learning/blob/master/Overfitting_and_Regularization/Overfitting_example.png)
 
 ## Signal v/s Noise
 
